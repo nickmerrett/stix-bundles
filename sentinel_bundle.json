@@ -20,7 +20,7 @@
                     "name": "SharpHound.exe",
                     "parent_directory_ref": "2",
                     "hashes": {
-                        "MD-5": "f1c45cbbd98619e197154085a05fd972283af6788343aa04492e35798a06e2b7"
+                        "SHA-256": "f1c45cbbd98619e197154085a05fd972283af6788343aa04492e35798a06e2b7"
                     }
                 },
                 "1": {
